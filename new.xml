@@ -1,2 +1,6 @@
 <xml>
-	<zadanie>"zadanie v pashalke"</zadanie>
+
+	<FIO>"Shapoval.Mihail.Anatoliyovich"<FIO>
+			<age>"30"<age>
+					<pets_count>"1"<pets_count>
+							<salary>"800"<salary>
